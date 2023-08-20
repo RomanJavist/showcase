@@ -1,4 +1,4 @@
-package com.test.showcase;
+package com.test.appliances;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
